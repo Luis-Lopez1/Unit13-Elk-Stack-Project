@@ -2,11 +2,15 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Filepath to diagram](Unit13Project/Diagrams/Cloud_Security_Diagram.png)
+![Diagrams/Cloud Security Diagram File]
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the ansible file may be used to install only certain pieces of it, such as Filebeat.
 
+<<<<<<< HEAD
   - ![Filepath to Filebeat playbook file](Diagrams/Cloud_Security_Diagram.png)
+=======
+  - ![Unit13Project/Ansible/Filebeat/filebeat-playbook.yml]
+>>>>>>> be431d5368b13a4efe6b5adf7e7a027d4d38f722
 
 This document contains the following details:
 - Description of the Topology
